@@ -13,3 +13,5 @@
 - *git branch* - вывод информации о ветках
 
 - *git merge branch_name* - слияние веток
+
+- *git branch branch_name* - создание новой ветки
